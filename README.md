@@ -1,0 +1,1 @@
+Registry for Make It So CLI plugins
